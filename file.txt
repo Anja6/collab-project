@@ -1,6 +1,1 @@
-My first collab file 
-<<<<<<< HEAD
-Test file
-=======
-My second line 
->>>>>>> a17ae60209bf06012a284d73b867c98af9f6aea1
+File
